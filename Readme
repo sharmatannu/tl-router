@@ -21,11 +21,11 @@ PS : all the desired files *.nets, *.pl, *.conf and *.tl will have the same name
 
 ****** Folder Description *******
 
-1.	./ts_router =>	 It has the source code. "net.py" and "router.py"
+1.	./ts_router =>	 It contains the source code. "net.py" and "router.py"
 
 2.	./doc		=>	 It has the project report.
 
-3.	./example	=>	 It has contains two example designs demo1 and demo2 with placement results from Capo, and the routing results CustomRouter.
+3.	./example	=>	 It contains two example designs demo1 and demo2 with placement results from Capo, and routing results CustomRouter.
 	3.a 	./example/design1 and ./example/design2
 			 It contains results after running Capo on the original files in bookshelf format.
 			(*.nets (netlist), *.pl (placement), *.nodes, *.wts, *.scl, *.aux, *.conf and *.tl (tranmission line net))
@@ -35,6 +35,6 @@ PS : all the desired files *.nets, *.pl, *.conf and *.tl will have the same name
 			The folder contains all the results obtained from Custom Router for each design.
 			*.rwl - routed wire length for each net along with the total wirelength, bends and unrouted nets.
 			*.ewl - estimated wire length
-			*.jpg files - with snapshots of placement, and routing results from the router
+			*.jpg files - with snapshots of placement and routing results from the router
 
 			All the files are created with and without transmission lines in the design for comparison.
