@@ -1,0 +1,40 @@
+/*******************************************************************
+* THE CODE IS PROVIDED "AS IS" AND WITH NO WARRANTIES, INCLUDING   *
+* WITHOUT LIMITATION ANY EXPRESS WARRANTIES OR IMPLIED WARRANTIES  *
+* OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR USE.  			   *
+********************************************************************
+*	Author	: Tannu Sharma
+*	Date	: 7th May 2014
+*	Project	: Custom Router to route a Transmission line
+********************************************************************/
+
+****** Pre-requisites for running it *******
+1.	Python latest version installed
+2.	Pygame needs to be installed.
+
+
+****** Steps Run *******
+% python ./ts_router/router.py ./example/design2/demo2
+
+PS : all the desired files *.nets, *.pl, *.conf and *.tl will have the same name demo2.
+
+
+****** Folder Description *******
+
+1.	./ts_router =>	 It has the source code. "net.py" and "router.py"
+
+2.	./doc		=>	 It has the project report.
+
+3.	./example	=>	 It has contains two example designs demo1 and demo2 with placement results from Capo, and the routing results CustomRouter.
+	3.a 	./example/design1 and ./example/design2
+			 It contains results after running Capo on the original files in bookshelf format.
+			(*.nets (netlist), *.pl (placement), *.nodes, *.wts, *.scl, *.aux, *.conf and *.tl (tranmission line net))
+	3.b 	./example/design1/gnuplot and ./example/design2/gnuplot
+			Placement plot obtained from Capo for respective designs.
+	3.c 	./example/design1/results and ./example/design2/results
+			The folder contains all the results obtained from Custom Router for each design.
+			*.rwl - routed wire length for each net along with the total wirelength, bends and unrouted nets.
+			*.ewl - estimated wire length
+			*.jpg files - with snapshots of placement, and routing results from the router
+
+			All the files are created with and without transmission lines in the design for comparison.

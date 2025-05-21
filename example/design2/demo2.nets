@@ -1,0 +1,3817 @@
+UCLA nets 1.0
+# Created      : Wed May  7 20:17:37 2014
+# User         : tannus@lab1-11 
+# Platform     : Linux 2.6.32-431.1.2.el6.x86_64 #1 SMP Thu Dec 12 13:59:19 CST 2013 x86_64 
+
+NumNets : 902
+NumPins : 2908
+NetDegree : 2        S84
+      C831 B 
+        C1 B 
+NetDegree : 3       S323
+        C3 B 
+        C2 B 
+        C1 B 
+NetDegree : 3       S324
+        C5 B 
+        C4 B 
+        C1 B 
+NetDegree : 2        S88
+      C176 B 
+        C2 B 
+NetDegree : 2        S89
+      C249 B 
+        C3 B 
+NetDegree : 2       S327
+       C11 B 
+        C4 B 
+NetDegree : 5        S85
+      C832 B 
+        C8 B 
+        C6 B 
+        C5 B 
+        C4 B 
+NetDegree : 3       S328
+       C11 B 
+        C5 B 
+        C4 B 
+NetDegree : 2       S330
+       C11 B 
+        C5 B 
+NetDegree : 2       S331
+        C6 B 
+        C5 B 
+NetDegree : 2       S333
+        C7 B 
+        C6 B 
+NetDegree : 4        S91
+      C773 B 
+      C504 B 
+      C467 B 
+        C7 B 
+NetDegree : 16        S90
+      C741 B 
+      C740 B 
+      C739 B 
+      C738 B 
+      C737 B 
+      C736 B 
+      C735 B 
+      C734 B 
+      C733 B 
+      C732 B 
+      C731 B 
+      C451 B 
+      C448 B 
+      C444 B 
+      C114 B 
+        C7 B 
+NetDegree : 4        S87
+      C807 B 
+      C719 B 
+      C674 B 
+        C8 B 
+NetDegree : 3        S86
+      C698 B 
+       C93 B 
+        C8 B 
+NetDegree : 2       S334
+        C9 B 
+        C8 B 
+NetDegree : 2       S335
+       C12 B 
+        C9 B 
+NetDegree : 2       S336
+       C10 B 
+        C9 B 
+NetDegree : 17        S92
+      C748 B 
+      C699 B 
+      C627 B 
+      C608 B 
+      C522 B 
+      C493 B 
+      C467 B 
+      C457 B 
+      C451 B 
+      C387 B 
+      C386 B 
+      C365 B 
+      C364 B 
+      C234 B 
+      C161 B 
+      C142 B 
+       C10 B 
+NetDegree : 11        S93
+      C639 B 
+      C468 B 
+      C464 B 
+      C455 B 
+      C453 B 
+      C450 B 
+      C446 B 
+      C134 B 
+      C117 B 
+      C115 B 
+       C12 B 
+NetDegree : 10       S339
+      C119 B 
+      C114 B 
+       C62 B 
+       C52 B 
+       C51 B 
+       C46 B 
+       C16 B 
+       C15 B 
+       C14 B 
+       C13 B 
+NetDegree : 2       S357
+       C17 B 
+       C13 B 
+NetDegree : 4       S358
+       C37 B 
+       C15 B 
+       C14 B 
+       C13 B 
+NetDegree : 3       S131
+      C819 B 
+       C65 B 
+       C13 B 
+NetDegree : 9       S342
+       C65 B 
+       C62 B 
+       C49 B 
+       C45 B 
+       C34 B 
+       C29 B 
+       C21 B 
+       C17 B 
+       C13 B 
+NetDegree : 2       S359
+       C18 B 
+       C14 B 
+NetDegree : 2       S132
+       C24 B 
+       C14 B 
+NetDegree : 3       S360
+       C23 B 
+       C18 B 
+       C14 B 
+NetDegree : 2       S361
+       C19 B 
+       C15 B 
+NetDegree : 5       S133
+      C821 B 
+      C113 B 
+      C109 B 
+       C30 B 
+       C15 B 
+NetDegree : 4       S343
+       C64 B 
+       C34 B 
+       C19 B 
+       C15 B 
+NetDegree : 2       S362
+       C22 B 
+       C16 B 
+NetDegree : 14       S111
+      C570 B 
+      C459 B 
+      C341 B 
+      C340 B 
+      C339 B 
+      C338 B 
+      C337 B 
+      C333 B 
+      C317 B 
+      C159 B 
+      C152 B 
+      C119 B 
+       C37 B 
+       C16 B 
+NetDegree : 4       S149
+      C143 B 
+      C118 B 
+       C35 B 
+       C16 B 
+NetDegree : 2       S364
+       C36 B 
+       C17 B 
+NetDegree : 6       S104
+      C456 B 
+      C451 B 
+      C330 B 
+       C19 B 
+       C18 B 
+       C17 B 
+NetDegree : 3       S105
+      C347 B 
+      C317 B 
+       C17 B 
+NetDegree : 2       S365
+       C30 B 
+       C18 B 
+NetDegree : 14       S106
+      C663 B 
+      C335 B 
+      C328 B 
+      C322 B 
+      C321 B 
+      C320 B 
+      C319 B 
+      C318 B 
+      C155 B 
+      C154 B 
+      C148 B 
+      C141 B 
+      C138 B 
+       C18 B 
+NetDegree : 6       S107
+      C729 B 
+      C347 B 
+      C156 B 
+      C140 B 
+       C21 B 
+       C19 B 
+NetDegree : 2       S366
+       C25 B 
+       C19 B 
+NetDegree : 7       S134
+      C822 B 
+      C572 B 
+      C513 B 
+      C508 B 
+      C490 B 
+       C33 B 
+       C20 B 
+NetDegree : 7       S338
+      C111 B 
+       C86 B 
+       C79 B 
+       C74 B 
+       C28 B 
+       C25 B 
+       C20 B 
+NetDegree : 5       S108
+      C520 B 
+      C519 B 
+      C515 B 
+      C510 B 
+       C20 B 
+NetDegree : 9       S109
+      C697 B 
+      C463 B 
+      C457 B 
+      C455 B 
+      C451 B 
+      C450 B 
+      C446 B 
+       C26 B 
+       C20 B 
+NetDegree : 2       S367
+       C22 B 
+       C20 B 
+NetDegree : 4       S368
+       C29 B 
+       C25 B 
+       C24 B 
+       C21 B 
+NetDegree : 2       S369
+       C26 B 
+       C21 B 
+NetDegree : 3       S346
+       C58 B 
+       C22 B 
+       C21 B 
+NetDegree : 2       S370
+       C31 B 
+       C22 B 
+NetDegree : 2       S103
+      C150 B 
+       C23 B 
+NetDegree : 3       S344
+       C66 B 
+       C26 B 
+       C23 B 
+NetDegree : 2       S371
+       C24 B 
+       C23 B 
+NetDegree : 6       S102
+      C723 B 
+      C311 B 
+      C129 B 
+      C127 B 
+      C126 B 
+       C24 B 
+NetDegree : 2       S372
+       C27 B 
+       C25 B 
+NetDegree : 2       S373
+       C28 B 
+       C26 B 
+NetDegree : 3       S345
+      C101 B 
+       C32 B 
+       C27 B 
+NetDegree : 11       S112
+      C488 B 
+      C463 B 
+      C459 B 
+      C120 B 
+      C110 B 
+       C99 B 
+       C98 B 
+       C88 B 
+       C87 B 
+       C86 B 
+       C28 B 
+NetDegree : 3       S128
+      C328 B 
+       C64 B 
+       C28 B 
+NetDegree : 3       S337
+       C71 B 
+       C40 B 
+       C29 B 
+NetDegree : 2       S374
+       C36 B 
+       C29 B 
+NetDegree : 8       S135
+      C567 B 
+      C566 B 
+      C564 B 
+       C84 B 
+       C83 B 
+       C35 B 
+       C33 B 
+       C30 B 
+NetDegree : 5       S340
+       C74 B 
+       C64 B 
+       C56 B 
+       C48 B 
+       C30 B 
+NetDegree : 6       S110
+      C670 B 
+      C669 B 
+      C520 B 
+      C514 B 
+      C509 B 
+       C31 B 
+NetDegree : 3       S341
+       C58 B 
+       C54 B 
+       C31 B 
+NetDegree : 3       S123
+      C159 B 
+       C32 B 
+       C31 B 
+NetDegree : 3       S114
+      C693 B 
+      C535 B 
+       C32 B 
+NetDegree : 5       S115
+      C673 B 
+      C157 B 
+      C148 B 
+      C138 B 
+       C32 B 
+NetDegree : 2       S146
+      C673 B 
+       C34 B 
+NetDegree : 3       S122
+      C820 B 
+      C465 B 
+       C35 B 
+NetDegree : 4       S113
+      C542 B 
+      C146 B 
+      C117 B 
+       C36 B 
+NetDegree : 2       S375
+       C62 B 
+       C38 B 
+NetDegree : 2       S418
+       C39 B 
+       C38 B 
+NetDegree : 7       S419
+       C44 B 
+       C43 B 
+       C42 B 
+       C41 B 
+       C40 B 
+       C39 B 
+       C38 B 
+NetDegree : 2       S377
+       C71 B 
+       C38 B 
+NetDegree : 2       S420
+       C40 B 
+       C39 B 
+NetDegree : 2       S378
+       C71 B 
+       C39 B 
+NetDegree : 2       S421
+       C41 B 
+       C40 B 
+NetDegree : 2       S422
+       C42 B 
+       C41 B 
+NetDegree : 2       S379
+       C75 B 
+       C41 B 
+NetDegree : 2       S423
+       C43 B 
+       C42 B 
+NetDegree : 2       S380
+       C76 B 
+       C42 B 
+NetDegree : 3       S381
+       C75 B 
+       C68 B 
+       C43 B 
+NetDegree : 3       S376
+       C77 B 
+       C67 B 
+       C44 B 
+NetDegree : 3        S98
+      C405 B 
+       C59 B 
+       C45 B 
+NetDegree : 2       S382
+       C55 B 
+       C45 B 
+NetDegree : 2       S383
+       C46 B 
+       C45 B 
+NetDegree : 2        S99
+      C403 B 
+       C46 B 
+NetDegree : 3       S385
+       C61 B 
+       C51 B 
+       C46 B 
+NetDegree : 2       S386
+       C67 B 
+       C46 B 
+NetDegree : 4        S94
+      C480 B 
+      C479 B 
+       C89 B 
+       C47 B 
+NetDegree : 2       S387
+       C56 B 
+       C47 B 
+NetDegree : 2       S388
+       C48 B 
+       C47 B 
+NetDegree : 3        S95
+      C505 B 
+       C65 B 
+       C48 B 
+NetDegree : 7       S390
+       C73 B 
+       C57 B 
+       C56 B 
+       C55 B 
+       C51 B 
+       C50 B 
+       C48 B 
+NetDegree : 3       S101
+      C420 B 
+       C60 B 
+       C49 B 
+NetDegree : 2       S392
+       C57 B 
+       C49 B 
+NetDegree : 4       S393
+       C69 B 
+       C66 B 
+       C63 B 
+       C49 B 
+NetDegree : 3       S394
+       C66 B 
+       C61 B 
+       C49 B 
+NetDegree : 3       S395
+       C55 B 
+       C51 B 
+       C50 B 
+NetDegree : 2       S396
+       C63 B 
+       C50 B 
+NetDegree : 3       S397
+       C66 B 
+       C63 B 
+       C50 B 
+NetDegree : 3       S398
+       C69 B 
+       C68 B 
+       C50 B 
+NetDegree : 2       S399
+       C67 B 
+       C51 B 
+NetDegree : 2       S400
+       C53 B 
+       C52 B 
+NetDegree : 4       S401
+       C77 B 
+       C54 B 
+       C53 B 
+       C52 B 
+NetDegree : 2       S403
+       C54 B 
+       C53 B 
+NetDegree : 2       S406
+       C60 B 
+       C57 B 
+NetDegree : 2       S407
+       C59 B 
+       C58 B 
+NetDegree : 2       S408
+       C70 B 
+       C59 B 
+NetDegree : 2       S409
+       C76 B 
+       C60 B 
+NetDegree : 3       S347
+      C101 B 
+       C64 B 
+       C61 B 
+NetDegree : 3        S96
+      C407 B 
+       C75 B 
+       C65 B 
+NetDegree : 2       S130
+      C605 B 
+       C65 B 
+NetDegree : 2       S410
+       C70 B 
+       C66 B 
+NetDegree : 2       S411
+       C73 B 
+       C67 B 
+NetDegree : 3       S412
+       C75 B 
+       C71 B 
+       C68 B 
+NetDegree : 2       S413
+       C72 B 
+       C68 B 
+NetDegree : 2       S100
+      C420 B 
+       C69 B 
+NetDegree : 2       S414
+       C72 B 
+       C69 B 
+NetDegree : 2       S415
+       C72 B 
+       C70 B 
+NetDegree : 2       S129
+      C145 B 
+       C70 B 
+NetDegree : 2       S416
+       C75 B 
+       C72 B 
+NetDegree : 2        S97
+      C455 B 
+       C73 B 
+NetDegree : 3       S426
+       C85 B 
+       C84 B 
+       C78 B 
+NetDegree : 2       S427
+       C86 B 
+       C78 B 
+NetDegree : 3       S136
+      C747 B 
+      C503 B 
+       C78 B 
+NetDegree : 3       S428
+       C89 B 
+       C83 B 
+       C78 B 
+NetDegree : 2       S429
+      C109 B 
+       C79 B 
+NetDegree : 2       S430
+       C87 B 
+       C79 B 
+NetDegree : 2       S431
+       C98 B 
+       C79 B 
+NetDegree : 3       S432
+       C97 B 
+       C91 B 
+       C79 B 
+NetDegree : 5       S121
+      C827 B 
+       C99 B 
+       C98 B 
+       C82 B 
+       C80 B 
+NetDegree : 2       S433
+       C91 B 
+       C80 B 
+NetDegree : 2       S434
+       C98 B 
+       C80 B 
+NetDegree : 2       S435
+      C112 B 
+       C80 B 
+NetDegree : 2       S436
+       C94 B 
+       C80 B 
+NetDegree : 3       S142
+      C626 B 
+      C101 B 
+       C81 B 
+NetDegree : 2       S437
+       C88 B 
+       C81 B 
+NetDegree : 3       S438
+       C99 B 
+       C91 B 
+       C81 B 
+NetDegree : 3       S439
+       C97 B 
+       C90 B 
+       C81 B 
+NetDegree : 2       S440
+       C90 B 
+       C82 B 
+NetDegree : 2       S441
+       C99 B 
+       C82 B 
+NetDegree : 3       S442
+      C105 B 
+      C100 B 
+       C82 B 
+NetDegree : 3       S443
+       C94 B 
+       C88 B 
+       C82 B 
+NetDegree : 4       S444
+      C112 B 
+       C87 B 
+       C84 B 
+       C83 B 
+NetDegree : 2       S138
+      C571 B 
+       C83 B 
+NetDegree : 2       S445
+      C110 B 
+       C85 B 
+NetDegree : 2       S137
+      C606 B 
+       C89 B 
+NetDegree : 5       S117
+      C829 B 
+      C104 B 
+       C95 B 
+       C91 B 
+       C90 B 
+NetDegree : 3       S446
+      C104 B 
+       C93 B 
+       C92 B 
+NetDegree : 2       S119
+      C830 B 
+       C92 B 
+NetDegree : 5       S145
+      C675 B 
+      C674 B 
+      C641 B 
+      C105 B 
+       C92 B 
+NetDegree : 3       S116
+      C830 B 
+       C96 B 
+       C93 B 
+NetDegree : 2       S447
+       C95 B 
+       C94 B 
+NetDegree : 2       S127
+      C828 B 
+       C95 B 
+NetDegree : 4       S120
+      C829 B 
+      C730 B 
+       C96 B 
+       C95 B 
+NetDegree : 2       S140
+      C825 B 
+       C95 B 
+NetDegree : 3       S118
+      C828 B 
+      C104 B 
+       C96 B 
+NetDegree : 2       S448
+      C100 B 
+       C96 B 
+NetDegree : 2       S139
+      C824 B 
+       C97 B 
+NetDegree : 2       S141
+      C826 B 
+      C100 B 
+NetDegree : 3       S449
+      C108 B 
+      C103 B 
+      C102 B 
+NetDegree : 9       S143
+      C758 B 
+      C757 B 
+      C756 B 
+      C755 B 
+      C754 B 
+      C753 B 
+      C752 B 
+      C751 B 
+      C102 B 
+NetDegree : 9       S144
+      C766 B 
+      C765 B 
+      C764 B 
+      C763 B 
+      C762 B 
+      C761 B 
+      C760 B 
+      C759 B 
+      C103 B 
+NetDegree : 2       S450
+      C106 B 
+      C105 B 
+NetDegree : 2       S451
+      C107 B 
+      C106 B 
+NetDegree : 2       S453
+      C108 B 
+      C107 B 
+NetDegree : 4       S125
+      C567 B 
+      C160 B 
+      C147 B 
+      C109 B 
+NetDegree : 2       S456
+      C111 B 
+      C110 B 
+NetDegree : 2       S457
+      C113 B 
+      C111 B 
+NetDegree : 2       S458
+      C112 B 
+      C111 B 
+NetDegree : 5       S124
+      C572 B 
+      C564 B 
+      C160 B 
+      C128 B 
+      C113 B 
+NetDegree : 3       S349
+      C117 B 
+      C116 B 
+      C115 B 
+NetDegree : 3       S350
+      C120 B 
+      C119 B 
+      C115 B 
+NetDegree : 2       S147
+      C672 B 
+      C115 B 
+NetDegree : 18       S126
+      C677 B 
+      C673 B 
+      C672 B 
+      C671 B 
+      C670 B 
+      C669 B 
+      C668 B 
+      C667 B 
+      C666 B 
+      C665 B 
+      C664 B 
+      C663 B 
+      C662 B 
+      C661 B 
+      C660 B 
+      C659 B 
+      C658 B 
+      C116 B 
+NetDegree : 2       S148
+      C671 B 
+      C117 B 
+NetDegree : 2       S353
+      C120 B 
+      C118 B 
+NetDegree : 2       S354
+      C119 B 
+      C118 B 
+NetDegree : 4       S151
+      C319 B 
+      C308 B 
+      C122 B 
+      C121 B 
+NetDegree : 3       S150
+      C307 B 
+      C123 B 
+      C121 B 
+NetDegree : 2       S460
+      C133 B 
+      C121 B 
+NetDegree : 7       S154
+      C719 B 
+      C336 B 
+      C308 B 
+      C307 B 
+      C153 B 
+      C124 B 
+      C122 B 
+NetDegree : 3       S461
+      C148 B 
+      C135 B 
+      C122 B 
+NetDegree : 5       S155
+      C720 B 
+      C309 B 
+      C308 B 
+      C124 B 
+      C123 B 
+NetDegree : 3       S462
+      C136 B 
+      C130 B 
+      C123 B 
+NetDegree : 4       S463
+      C144 B 
+      C137 B 
+      C132 B 
+      C124 B 
+NetDegree : 5       S153
+      C322 B 
+      C311 B 
+      C153 B 
+      C147 B 
+      C125 B 
+NetDegree : 6       S156
+      C721 B 
+      C310 B 
+      C309 B 
+      C129 B 
+      C127 B 
+      C125 B 
+NetDegree : 2       S464
+      C130 B 
+      C125 B 
+NetDegree : 5       S152
+      C320 B 
+      C309 B 
+      C158 B 
+      C148 B 
+      C126 B 
+NetDegree : 5       S465
+      C137 B 
+      C136 B 
+      C135 B 
+      C133 B 
+      C126 B 
+NetDegree : 3       S466
+      C144 B 
+      C132 B 
+      C127 B 
+NetDegree : 4       S158
+      C467 B 
+      C142 B 
+      C138 B 
+      C128 B 
+NetDegree : 2       S165
+      C640 B 
+      C128 B 
+NetDegree : 2       S467
+      C139 B 
+      C129 B 
+NetDegree : 2       S468
+      C140 B 
+      C130 B 
+NetDegree : 2       S469
+      C135 B 
+      C131 B 
+NetDegree : 3       S167
+      C692 B 
+      C134 B 
+      C131 B 
+NetDegree : 4       S166
+      C671 B 
+      C667 B 
+      C134 B 
+      C131 B 
+NetDegree : 5       S157
+      C321 B 
+      C310 B 
+      C158 B 
+      C144 B 
+      C132 B 
+NetDegree : 3       S470
+      C150 B 
+      C139 B 
+      C132 B 
+NetDegree : 5       S471
+      C138 B 
+      C137 B 
+      C136 B 
+      C135 B 
+      C133 B 
+NetDegree : 2       S472
+      C134 B 
+      C133 B 
+NetDegree : 3       S169
+      C712 B 
+      C710 B 
+      C136 B 
+NetDegree : 3       S168
+      C711 B 
+      C709 B 
+      C137 B 
+NetDegree : 2       S473
+      C140 B 
+      C139 B 
+NetDegree : 2       S474
+      C144 B 
+      C139 B 
+NetDegree : 2       S475
+      C141 B 
+      C139 B 
+NetDegree : 2       S476
+      C149 B 
+      C141 B 
+NetDegree : 3       S477
+      C148 B 
+      C147 B 
+      C142 B 
+NetDegree : 3       S478
+      C151 B 
+      C146 B 
+      C142 B 
+NetDegree : 3       S479
+      C157 B 
+      C149 B 
+      C143 B 
+NetDegree : 2       S480
+      C145 B 
+      C143 B 
+NetDegree : 3       S160
+      C708 B 
+      C701 B 
+      C145 B 
+NetDegree : 3       S481
+      C159 B 
+      C146 B 
+      C145 B 
+NetDegree : 2       S163
+      C818 B 
+      C146 B 
+NetDegree : 2       S482
+      C152 B 
+      C149 B 
+NetDegree : 2       S483
+      C156 B 
+      C149 B 
+NetDegree : 6       S164
+      C695 B 
+      C694 B 
+      C693 B 
+      C692 B 
+      C464 B 
+      C151 B 
+NetDegree : 5       S162
+      C785 B 
+      C466 B 
+      C460 B 
+      C456 B 
+      C152 B 
+NetDegree : 2       S159
+      C786 B 
+      C152 B 
+NetDegree : 2       S485
+      C158 B 
+      C153 B 
+NetDegree : 2       S486
+      C154 B 
+      C153 B 
+NetDegree : 2       S487
+      C155 B 
+      C154 B 
+NetDegree : 2       S488
+      C156 B 
+      C155 B 
+NetDegree : 3       S161
+      C465 B 
+      C463 B 
+      C156 B 
+NetDegree : 5       S501
+      C226 B 
+      C217 B 
+      C203 B 
+      C179 B 
+      C161 B 
+NetDegree : 7       S510
+      C178 B 
+      C167 B 
+      C166 B 
+      C165 B 
+      C164 B 
+      C163 B 
+      C162 B 
+NetDegree : 3       S170
+      C511 B 
+      C168 B 
+      C162 B 
+NetDegree : 7       S511
+      C179 B 
+      C174 B 
+      C172 B 
+      C168 B 
+      C167 B 
+      C166 B 
+      C162 B 
+NetDegree : 2       S512
+      C173 B 
+      C162 B 
+NetDegree : 2       S514
+      C165 B 
+      C163 B 
+NetDegree : 4       S515
+      C180 B 
+      C165 B 
+      C164 B 
+      C163 B 
+NetDegree : 2       S516
+      C164 B 
+      C163 B 
+NetDegree : 3       S518
+      C166 B 
+      C165 B 
+      C164 B 
+NetDegree : 2       S522
+      C175 B 
+      C166 B 
+NetDegree : 3       S523
+      C173 B 
+      C168 B 
+      C167 B 
+NetDegree : 2       S502
+      C182 B 
+      C167 B 
+NetDegree : 6       S525
+      C177 B 
+      C172 B 
+      C171 B 
+      C170 B 
+      C169 B 
+      C168 B 
+NetDegree : 2       S527
+      C171 B 
+      C169 B 
+NetDegree : 4       S528
+      C181 B 
+      C171 B 
+      C170 B 
+      C169 B 
+NetDegree : 2       S529
+      C170 B 
+      C169 B 
+NetDegree : 3       S531
+      C172 B 
+      C171 B 
+      C170 B 
+NetDegree : 2       S535
+      C175 B 
+      C172 B 
+NetDegree : 2       S536
+      C174 B 
+      C173 B 
+NetDegree : 3       S537
+      C181 B 
+      C180 B 
+      C174 B 
+NetDegree : 3       S503
+      C230 B 
+      C207 B 
+      C175 B 
+NetDegree : 2       S538
+      C177 B 
+      C176 B 
+NetDegree : 2       S539
+      C178 B 
+      C176 B 
+NetDegree : 11       S543
+      C208 B 
+      C191 B 
+      C190 B 
+      C189 B 
+      C188 B 
+      C187 B 
+      C186 B 
+      C185 B 
+      C184 B 
+      C183 B 
+      C182 B 
+NetDegree : 12       S544
+      C205 B 
+      C203 B 
+      C191 B 
+      C190 B 
+      C189 B 
+      C188 B 
+      C187 B 
+      C186 B 
+      C185 B 
+      C184 B 
+      C183 B 
+      C182 B 
+NetDegree : 3       S545
+      C198 B 
+      C183 B 
+      C182 B 
+NetDegree : 3       S547
+      C198 B 
+      C184 B 
+      C183 B 
+NetDegree : 4       S549
+      C205 B 
+      C197 B 
+      C185 B 
+      C184 B 
+NetDegree : 2       S550
+      C206 B 
+      C184 B 
+NetDegree : 2       S551
+      C186 B 
+      C185 B 
+NetDegree : 2       S552
+      C204 B 
+      C185 B 
+NetDegree : 4       S553
+      C196 B 
+      C194 B 
+      C187 B 
+      C186 B 
+NetDegree : 2       S554
+      C195 B 
+      C186 B 
+NetDegree : 4       S555
+      C206 B 
+      C194 B 
+      C188 B 
+      C187 B 
+NetDegree : 2       S556
+      C195 B 
+      C187 B 
+NetDegree : 3       S557
+      C194 B 
+      C189 B 
+      C188 B 
+NetDegree : 2       S558
+      C195 B 
+      C188 B 
+NetDegree : 3       S559
+      C192 B 
+      C190 B 
+      C189 B 
+NetDegree : 2       S560
+      C193 B 
+      C189 B 
+NetDegree : 3       S561
+      C192 B 
+      C191 B 
+      C190 B 
+NetDegree : 2       S562
+      C193 B 
+      C190 B 
+NetDegree : 2       S563
+      C192 B 
+      C191 B 
+NetDegree : 2       S564
+      C193 B 
+      C191 B 
+NetDegree : 2       S565
+      C199 B 
+      C192 B 
+NetDegree : 2       S566
+      C200 B 
+      C193 B 
+NetDegree : 2       S567
+      C199 B 
+      C194 B 
+NetDegree : 2       S568
+      C200 B 
+      C195 B 
+NetDegree : 3       S569
+      C208 B 
+      C207 B 
+      C196 B 
+NetDegree : 5       S506
+      C223 B 
+      C217 B 
+      C204 B 
+      C197 B 
+      C196 B 
+NetDegree : 3       S570
+      C206 B 
+      C205 B 
+      C196 B 
+NetDegree : 4       S509
+      C225 B 
+      C200 B 
+      C199 B 
+      C197 B 
+NetDegree : 3       S571
+      C200 B 
+      C199 B 
+      C198 B 
+NetDegree : 3       S572
+      C202 B 
+      C201 B 
+      C199 B 
+NetDegree : 2       S573
+      C201 B 
+      C200 B 
+NetDegree : 2       S507
+      C227 B 
+      C201 B 
+NetDegree : 2       S508
+      C220 B 
+      C202 B 
+NetDegree : 2       S504
+      C232 B 
+      C205 B 
+NetDegree : 2       S505
+      C233 B 
+      C206 B 
+NetDegree : 4       S576
+      C230 B 
+      C222 B 
+      C221 B 
+      C209 B 
+NetDegree : 3       S578
+      C228 B 
+      C210 B 
+      C209 B 
+NetDegree : 6       S608
+      C216 B 
+      C213 B 
+      C212 B 
+      C211 B 
+      C210 B 
+      C209 B 
+NetDegree : 3       S490
+      C410 B 
+      C214 B 
+      C209 B 
+NetDegree : 2       S580
+      C211 B 
+      C210 B 
+NetDegree : 2       S579
+      C214 B 
+      C210 B 
+NetDegree : 2       S582
+      C212 B 
+      C211 B 
+NetDegree : 2       S581
+      C214 B 
+      C211 B 
+NetDegree : 3       S584
+      C215 B 
+      C213 B 
+      C212 B 
+NetDegree : 2       S586
+      C215 B 
+      C213 B 
+NetDegree : 2       S609
+      C215 B 
+      C214 B 
+NetDegree : 2       S587
+      C222 B 
+      C215 B 
+NetDegree : 3       S577
+      C231 B 
+      C221 B 
+      C216 B 
+NetDegree : 4       S588
+      C233 B 
+      C228 B 
+      C218 B 
+      C217 B 
+NetDegree : 3       S491
+      C404 B 
+      C348 B 
+      C217 B 
+NetDegree : 2       S590
+      C223 B 
+      C218 B 
+NetDegree : 3       S591
+      C232 B 
+      C222 B 
+      C218 B 
+NetDegree : 3       S592
+      C224 B 
+      C223 B 
+      C218 B 
+NetDegree : 3       S594
+      C229 B 
+      C222 B 
+      C219 B 
+NetDegree : 2       S595
+      C224 B 
+      C219 B 
+NetDegree : 2       S596
+      C226 B 
+      C219 B 
+NetDegree : 3       S492
+      C445 B 
+      C403 B 
+      C219 B 
+NetDegree : 5       S494
+      C410 B 
+      C405 B 
+      C231 B 
+      C226 B 
+      C220 B 
+NetDegree : 3       S598
+      C229 B 
+      C221 B 
+      C220 B 
+NetDegree : 3       S493
+      C443 B 
+      C406 B 
+      C220 B 
+NetDegree : 2       S600
+      C227 B 
+      C221 B 
+NetDegree : 3       S601
+      C228 B 
+      C227 B 
+      C221 B 
+NetDegree : 2       S602
+      C228 B 
+      C222 B 
+NetDegree : 3       S603
+      C233 B 
+      C225 B 
+      C224 B 
+NetDegree : 2       S604
+      C233 B 
+      C225 B 
+NetDegree : 3       S605
+      C233 B 
+      C232 B 
+      C229 B 
+NetDegree : 5       S612
+      C299 B 
+      C290 B 
+      C276 B 
+      C252 B 
+      C234 B 
+NetDegree : 7       S621
+      C251 B 
+      C240 B 
+      C239 B 
+      C238 B 
+      C237 B 
+      C236 B 
+      C235 B 
+NetDegree : 3       S171
+      C516 B 
+      C241 B 
+      C235 B 
+NetDegree : 7       S622
+      C252 B 
+      C247 B 
+      C245 B 
+      C241 B 
+      C240 B 
+      C239 B 
+      C235 B 
+NetDegree : 2       S623
+      C246 B 
+      C235 B 
+NetDegree : 2       S625
+      C238 B 
+      C236 B 
+NetDegree : 4       S626
+      C253 B 
+      C238 B 
+      C237 B 
+      C236 B 
+NetDegree : 2       S627
+      C237 B 
+      C236 B 
+NetDegree : 3       S629
+      C239 B 
+      C238 B 
+      C237 B 
+NetDegree : 2       S633
+      C248 B 
+      C239 B 
+NetDegree : 3       S634
+      C246 B 
+      C241 B 
+      C240 B 
+NetDegree : 2       S613
+      C255 B 
+      C240 B 
+NetDegree : 6       S636
+      C250 B 
+      C245 B 
+      C244 B 
+      C243 B 
+      C242 B 
+      C241 B 
+NetDegree : 2       S638
+      C244 B 
+      C242 B 
+NetDegree : 4       S639
+      C254 B 
+      C244 B 
+      C243 B 
+      C242 B 
+NetDegree : 2       S640
+      C243 B 
+      C242 B 
+NetDegree : 3       S642
+      C245 B 
+      C244 B 
+      C243 B 
+NetDegree : 2       S646
+      C248 B 
+      C245 B 
+NetDegree : 2       S647
+      C247 B 
+      C246 B 
+NetDegree : 3       S648
+      C254 B 
+      C253 B 
+      C247 B 
+NetDegree : 3       S614
+      C303 B 
+      C280 B 
+      C248 B 
+NetDegree : 2       S649
+      C250 B 
+      C249 B 
+NetDegree : 2       S650
+      C251 B 
+      C249 B 
+NetDegree : 11       S654
+      C281 B 
+      C264 B 
+      C263 B 
+      C262 B 
+      C261 B 
+      C260 B 
+      C259 B 
+      C258 B 
+      C257 B 
+      C256 B 
+      C255 B 
+NetDegree : 12       S655
+      C278 B 
+      C276 B 
+      C264 B 
+      C263 B 
+      C262 B 
+      C261 B 
+      C260 B 
+      C259 B 
+      C258 B 
+      C257 B 
+      C256 B 
+      C255 B 
+NetDegree : 3       S656
+      C271 B 
+      C256 B 
+      C255 B 
+NetDegree : 3       S658
+      C271 B 
+      C257 B 
+      C256 B 
+NetDegree : 4       S660
+      C278 B 
+      C270 B 
+      C258 B 
+      C257 B 
+NetDegree : 2       S661
+      C279 B 
+      C257 B 
+NetDegree : 2       S662
+      C259 B 
+      C258 B 
+NetDegree : 2       S663
+      C277 B 
+      C258 B 
+NetDegree : 4       S664
+      C269 B 
+      C267 B 
+      C260 B 
+      C259 B 
+NetDegree : 2       S665
+      C268 B 
+      C259 B 
+NetDegree : 4       S666
+      C279 B 
+      C267 B 
+      C261 B 
+      C260 B 
+NetDegree : 2       S667
+      C268 B 
+      C260 B 
+NetDegree : 3       S668
+      C267 B 
+      C262 B 
+      C261 B 
+NetDegree : 2       S669
+      C268 B 
+      C261 B 
+NetDegree : 3       S670
+      C265 B 
+      C263 B 
+      C262 B 
+NetDegree : 2       S671
+      C266 B 
+      C262 B 
+NetDegree : 3       S672
+      C265 B 
+      C264 B 
+      C263 B 
+NetDegree : 2       S673
+      C266 B 
+      C263 B 
+NetDegree : 2       S674
+      C265 B 
+      C264 B 
+NetDegree : 2       S675
+      C266 B 
+      C264 B 
+NetDegree : 2       S676
+      C272 B 
+      C265 B 
+NetDegree : 2       S677
+      C273 B 
+      C266 B 
+NetDegree : 2       S678
+      C273 B 
+      C267 B 
+NetDegree : 2       S679
+      C272 B 
+      C268 B 
+NetDegree : 3       S680
+      C281 B 
+      C280 B 
+      C269 B 
+NetDegree : 5       S617
+      C296 B 
+      C290 B 
+      C277 B 
+      C270 B 
+      C269 B 
+NetDegree : 3       S681
+      C279 B 
+      C278 B 
+      C269 B 
+NetDegree : 4       S620
+      C298 B 
+      C273 B 
+      C272 B 
+      C270 B 
+NetDegree : 3       S682
+      C273 B 
+      C272 B 
+      C271 B 
+NetDegree : 3       S683
+      C275 B 
+      C274 B 
+      C272 B 
+NetDegree : 2       S684
+      C274 B 
+      C273 B 
+NetDegree : 2       S618
+      C300 B 
+      C274 B 
+NetDegree : 2       S619
+      C293 B 
+      C275 B 
+NetDegree : 2       S615
+      C305 B 
+      C278 B 
+NetDegree : 2       S616
+      C306 B 
+      C279 B 
+NetDegree : 4       S687
+      C303 B 
+      C295 B 
+      C294 B 
+      C282 B 
+NetDegree : 3       S689
+      C301 B 
+      C283 B 
+      C282 B 
+NetDegree : 6       S719
+      C289 B 
+      C286 B 
+      C285 B 
+      C284 B 
+      C283 B 
+      C282 B 
+NetDegree : 3       S495
+      C411 B 
+      C287 B 
+      C282 B 
+NetDegree : 2       S691
+      C284 B 
+      C283 B 
+NetDegree : 2       S690
+      C287 B 
+      C283 B 
+NetDegree : 2       S693
+      C285 B 
+      C284 B 
+NetDegree : 2       S692
+      C287 B 
+      C284 B 
+NetDegree : 3       S695
+      C288 B 
+      C286 B 
+      C285 B 
+NetDegree : 2       S697
+      C288 B 
+      C286 B 
+NetDegree : 2       S720
+      C288 B 
+      C287 B 
+NetDegree : 2       S698
+      C295 B 
+      C288 B 
+NetDegree : 3       S688
+      C304 B 
+      C294 B 
+      C289 B 
+NetDegree : 4       S699
+      C306 B 
+      C301 B 
+      C291 B 
+      C290 B 
+NetDegree : 3       S496
+      C404 B 
+      C370 B 
+      C290 B 
+NetDegree : 2       S701
+      C296 B 
+      C291 B 
+NetDegree : 3       S702
+      C305 B 
+      C295 B 
+      C291 B 
+NetDegree : 3       S703
+      C297 B 
+      C296 B 
+      C291 B 
+NetDegree : 3       S705
+      C302 B 
+      C295 B 
+      C292 B 
+NetDegree : 2       S706
+      C297 B 
+      C292 B 
+NetDegree : 2       S707
+      C299 B 
+      C292 B 
+NetDegree : 3       S497
+      C449 B 
+      C403 B 
+      C292 B 
+NetDegree : 5       S499
+      C411 B 
+      C405 B 
+      C304 B 
+      C299 B 
+      C293 B 
+NetDegree : 3       S709
+      C302 B 
+      C294 B 
+      C293 B 
+NetDegree : 3       S498
+      C447 B 
+      C406 B 
+      C293 B 
+NetDegree : 2       S711
+      C300 B 
+      C294 B 
+NetDegree : 3       S712
+      C301 B 
+      C300 B 
+      C294 B 
+NetDegree : 2       S713
+      C301 B 
+      C295 B 
+NetDegree : 3       S714
+      C306 B 
+      C298 B 
+      C297 B 
+NetDegree : 2       S715
+      C306 B 
+      C298 B 
+NetDegree : 3       S716
+      C306 B 
+      C305 B 
+      C302 B 
+NetDegree : 2       S741
+      C328 B 
+      C307 B 
+NetDegree : 3       S742
+      C337 B 
+      C323 B 
+      C307 B 
+NetDegree : 2       S743
+      C337 B 
+      C307 B 
+NetDegree : 3       S744
+      C338 B 
+      C324 B 
+      C308 B 
+NetDegree : 2       S745
+      C338 B 
+      C308 B 
+NetDegree : 3       S746
+      C339 B 
+      C325 B 
+      C309 B 
+NetDegree : 2       S747
+      C339 B 
+      C309 B 
+NetDegree : 3       S748
+      C340 B 
+      C326 B 
+      C310 B 
+NetDegree : 2       S749
+      C340 B 
+      C310 B 
+NetDegree : 3       S183
+      C722 B 
+      C311 B 
+      C310 B 
+NetDegree : 3       S750
+      C341 B 
+      C327 B 
+      C311 B 
+NetDegree : 2       S751
+      C341 B 
+      C311 B 
+NetDegree : 14       S728
+      C458 B 
+      C456 B 
+      C455 B 
+      C327 B 
+      C326 B 
+      C325 B 
+      C324 B 
+      C323 B 
+      C317 B 
+      C316 B 
+      C315 B 
+      C314 B 
+      C313 B 
+      C312 B 
+NetDegree : 3       S722
+      C414 B 
+      C329 B 
+      C312 B 
+NetDegree : 6       S752
+      C334 B 
+      C316 B 
+      C315 B 
+      C314 B 
+      C313 B 
+      C312 B 
+NetDegree : 2       S184
+      C724 B 
+      C312 B 
+NetDegree : 3       S753
+      C332 B 
+      C318 B 
+      C312 B 
+NetDegree : 3       S723
+      C415 B 
+      C329 B 
+      C313 B 
+NetDegree : 2       S185
+      C725 B 
+      C313 B 
+NetDegree : 3       S754
+      C332 B 
+      C319 B 
+      C313 B 
+NetDegree : 3       S724
+      C416 B 
+      C329 B 
+      C314 B 
+NetDegree : 2       S186
+      C726 B 
+      C314 B 
+NetDegree : 3       S755
+      C331 B 
+      C320 B 
+      C314 B 
+NetDegree : 3       S725
+      C417 B 
+      C330 B 
+      C315 B 
+NetDegree : 2       S187
+      C727 B 
+      C315 B 
+NetDegree : 3       S756
+      C331 B 
+      C321 B 
+      C315 B 
+NetDegree : 3       S726
+      C418 B 
+      C330 B 
+      C316 B 
+NetDegree : 2       S188
+      C728 B 
+      C316 B 
+NetDegree : 3       S757
+      C331 B 
+      C322 B 
+      C316 B 
+NetDegree : 2       S727
+      C419 B 
+      C317 B 
+NetDegree : 7       S210
+      C792 B 
+      C335 B 
+      C322 B 
+      C321 B 
+      C320 B 
+      C319 B 
+      C318 B 
+NetDegree : 2       S759
+      C336 B 
+      C318 B 
+NetDegree : 3       S178
+      C787 B 
+      C346 B 
+      C318 B 
+NetDegree : 3       S179
+      C788 B 
+      C345 B 
+      C319 B 
+NetDegree : 3       S180
+      C789 B 
+      C344 B 
+      C320 B 
+NetDegree : 3       S181
+      C790 B 
+      C343 B 
+      C321 B 
+NetDegree : 3       S182
+      C791 B 
+      C342 B 
+      C322 B 
+NetDegree : 3       S189
+      C638 B 
+      C392 B 
+      C323 B 
+NetDegree : 3       S190
+      C637 B 
+      C393 B 
+      C324 B 
+NetDegree : 3       S191
+      C636 B 
+      C394 B 
+      C325 B 
+NetDegree : 3       S192
+      C635 B 
+      C395 B 
+      C326 B 
+NetDegree : 3       S193
+      C634 B 
+      C396 B 
+      C327 B 
+NetDegree : 2       S760
+      C333 B 
+      C329 B 
+NetDegree : 2       S761
+      C333 B 
+      C330 B 
+NetDegree : 2       S762
+      C332 B 
+      C331 B 
+NetDegree : 2       S763
+      C335 B 
+      C332 B 
+NetDegree : 2       S764
+      C334 B 
+      C333 B 
+NetDegree : 2       S204
+      C662 B 
+      C342 B 
+NetDegree : 2       S205
+      C661 B 
+      C343 B 
+NetDegree : 2       S206
+      C660 B 
+      C344 B 
+NetDegree : 2       S207
+      C659 B 
+      C345 B 
+NetDegree : 2       S208
+      C658 B 
+      C346 B 
+NetDegree : 5       S790
+      C369 B 
+      C351 B 
+      C350 B 
+      C349 B 
+      C348 B 
+NetDegree : 9       S791
+      C364 B 
+      C355 B 
+      C354 B 
+      C353 B 
+      C352 B 
+      C351 B 
+      C350 B 
+      C349 B 
+      C348 B 
+NetDegree : 3       S765
+      C392 B 
+      C349 B 
+      C348 B 
+NetDegree : 3       S766
+      C393 B 
+      C351 B 
+      C349 B 
+NetDegree : 2       S767
+      C394 B 
+      C350 B 
+NetDegree : 3       S768
+      C395 B 
+      C352 B 
+      C351 B 
+NetDegree : 6       S792
+      C369 B 
+      C368 B 
+      C355 B 
+      C354 B 
+      C353 B 
+      C352 B 
+NetDegree : 3       S769
+      C396 B 
+      C353 B 
+      C352 B 
+NetDegree : 3       S770
+      C397 B 
+      C354 B 
+      C353 B 
+NetDegree : 3       S771
+      C398 B 
+      C355 B 
+      C354 B 
+NetDegree : 3       S772
+      C399 B 
+      C356 B 
+      C355 B 
+NetDegree : 6       S793
+      C368 B 
+      C367 B 
+      C359 B 
+      C358 B 
+      C357 B 
+      C356 B 
+NetDegree : 9       S794
+      C365 B 
+      C363 B 
+      C362 B 
+      C361 B 
+      C360 B 
+      C359 B 
+      C358 B 
+      C357 B 
+      C356 B 
+NetDegree : 3       S773
+      C400 B 
+      C357 B 
+      C356 B 
+NetDegree : 3       S774
+      C401 B 
+      C358 B 
+      C357 B 
+NetDegree : 3       S775
+      C402 B 
+      C359 B 
+      C358 B 
+NetDegree : 4       S730
+      C428 B 
+      C421 B 
+      C360 B 
+      C359 B 
+NetDegree : 6       S795
+      C367 B 
+      C366 B 
+      C363 B 
+      C362 B 
+      C361 B 
+      C360 B 
+NetDegree : 4       S731
+      C428 B 
+      C422 B 
+      C361 B 
+      C360 B 
+NetDegree : 4       S732
+      C428 B 
+      C423 B 
+      C362 B 
+      C361 B 
+NetDegree : 4       S733
+      C429 B 
+      C424 B 
+      C363 B 
+      C362 B 
+NetDegree : 3       S734
+      C429 B 
+      C425 B 
+      C363 B 
+NetDegree : 4       S729
+      C443 B 
+      C412 B 
+      C407 B 
+      C366 B 
+NetDegree : 5       S818
+      C391 B 
+      C374 B 
+      C372 B 
+      C371 B 
+      C370 B 
+NetDegree : 9       S819
+      C386 B 
+      C377 B 
+      C376 B 
+      C375 B 
+      C374 B 
+      C373 B 
+      C372 B 
+      C371 B 
+      C370 B 
+NetDegree : 3       S776
+      C392 B 
+      C371 B 
+      C370 B 
+NetDegree : 3       S777
+      C393 B 
+      C372 B 
+      C371 B 
+NetDegree : 3       S778
+      C394 B 
+      C373 B 
+      C372 B 
+NetDegree : 6       S820
+      C391 B 
+      C390 B 
+      C377 B 
+      C376 B 
+      C375 B 
+      C373 B 
+NetDegree : 3       S779
+      C395 B 
+      C374 B 
+      C373 B 
+NetDegree : 3       S780
+      C396 B 
+      C375 B 
+      C374 B 
+NetDegree : 3       S781
+      C397 B 
+      C376 B 
+      C375 B 
+NetDegree : 3       S782
+      C398 B 
+      C377 B 
+      C376 B 
+NetDegree : 3       S783
+      C399 B 
+      C378 B 
+      C377 B 
+NetDegree : 6       S821
+      C390 B 
+      C389 B 
+      C381 B 
+      C380 B 
+      C379 B 
+      C378 B 
+NetDegree : 9       S822
+      C387 B 
+      C385 B 
+      C384 B 
+      C383 B 
+      C382 B 
+      C381 B 
+      C380 B 
+      C379 B 
+      C378 B 
+NetDegree : 3       S784
+      C400 B 
+      C379 B 
+      C378 B 
+NetDegree : 3       S785
+      C401 B 
+      C380 B 
+      C379 B 
+NetDegree : 3       S786
+      C402 B 
+      C381 B 
+      C380 B 
+NetDegree : 4       S735
+      C439 B 
+      C432 B 
+      C382 B 
+      C381 B 
+NetDegree : 6       S823
+      C389 B 
+      C388 B 
+      C385 B 
+      C384 B 
+      C383 B 
+      C382 B 
+NetDegree : 4       S736
+      C439 B 
+      C433 B 
+      C383 B 
+      C382 B 
+NetDegree : 4       S737
+      C439 B 
+      C434 B 
+      C384 B 
+      C383 B 
+NetDegree : 4       S738
+      C440 B 
+      C435 B 
+      C385 B 
+      C384 B 
+NetDegree : 3       S739
+      C440 B 
+      C436 B 
+      C385 B 
+NetDegree : 4       S740
+      C447 B 
+      C413 B 
+      C407 B 
+      C388 B 
+NetDegree : 17       S846
+      C409 B 
+      C407 B 
+      C406 B 
+      C405 B 
+      C404 B 
+      C403 B 
+      C402 B 
+      C401 B 
+      C400 B 
+      C399 B 
+      C398 B 
+      C397 B 
+      C396 B 
+      C395 B 
+      C394 B 
+      C393 B 
+      C392 B 
+NetDegree : 18       S847
+      C409 B 
+      C408 B 
+      C407 B 
+      C406 B 
+      C405 B 
+      C404 B 
+      C403 B 
+      C402 B 
+      C401 B 
+      C400 B 
+      C399 B 
+      C398 B 
+      C397 B 
+      C396 B 
+      C395 B 
+      C394 B 
+      C393 B 
+      C392 B 
+NetDegree : 3       S194
+      C633 B 
+      C414 B 
+      C397 B 
+NetDegree : 3       S195
+      C632 B 
+      C415 B 
+      C398 B 
+NetDegree : 3       S196
+      C631 B 
+      C416 B 
+      C399 B 
+NetDegree : 3       S197
+      C630 B 
+      C417 B 
+      C400 B 
+NetDegree : 3       S198
+      C629 B 
+      C418 B 
+      C401 B 
+NetDegree : 3       S199
+      C628 B 
+      C419 B 
+      C402 B 
+NetDegree : 2       S200
+      C577 B 
+      C404 B 
+NetDegree : 2       S787
+      C420 B 
+      C406 B 
+NetDegree : 7       S202
+      C776 B 
+      C712 B 
+      C711 B 
+      C522 B 
+      C462 B 
+      C461 B 
+      C408 B 
+NetDegree : 2       S788
+      C412 B 
+      C410 B 
+NetDegree : 2       S789
+      C413 B 
+      C411 B 
+NetDegree : 4       S172
+      C703 B 
+      C686 B 
+      C432 B 
+      C421 B 
+NetDegree : 2       S866
+      C426 B 
+      C421 B 
+NetDegree : 4       S173
+      C703 B 
+      C687 B 
+      C433 B 
+      C422 B 
+NetDegree : 2       S867
+      C426 B 
+      C422 B 
+NetDegree : 4       S174
+      C704 B 
+      C688 B 
+      C434 B 
+      C423 B 
+NetDegree : 2       S868
+      C426 B 
+      C423 B 
+NetDegree : 4       S175
+      C704 B 
+      C689 B 
+      C435 B 
+      C424 B 
+NetDegree : 2       S869
+      C427 B 
+      C424 B 
+NetDegree : 4       S176
+      C706 B 
+      C696 B 
+      C436 B 
+      C425 B 
+NetDegree : 2       S870
+      C427 B 
+      C425 B 
+NetDegree : 2       S871
+      C427 B 
+      C426 B 
+NetDegree : 2       S872
+      C430 B 
+      C427 B 
+NetDegree : 2       S873
+      C429 B 
+      C428 B 
+NetDegree : 2       S874
+      C431 B 
+      C429 B 
+NetDegree : 3       S849
+      C462 B 
+      C431 B 
+      C430 B 
+NetDegree : 2       S848
+      C445 B 
+      C430 B 
+NetDegree : 3       S177
+      C833 B 
+      C442 B 
+      C431 B 
+NetDegree : 2       S875
+      C437 B 
+      C432 B 
+NetDegree : 2       S876
+      C437 B 
+      C433 B 
+NetDegree : 2       S877
+      C437 B 
+      C434 B 
+NetDegree : 2       S878
+      C438 B 
+      C435 B 
+NetDegree : 2       S879
+      C438 B 
+      C436 B 
+NetDegree : 2       S880
+      C438 B 
+      C437 B 
+NetDegree : 2       S881
+      C441 B 
+      C438 B 
+NetDegree : 2       S882
+      C440 B 
+      C439 B 
+NetDegree : 2       S883
+      C442 B 
+      C440 B 
+NetDegree : 3       S851
+      C462 B 
+      C442 B 
+      C441 B 
+NetDegree : 2       S850
+      C449 B 
+      C441 B 
+NetDegree : 2       S884
+      C446 B 
+      C443 B 
+NetDegree : 2       S885
+      C444 B 
+      C443 B 
+NetDegree : 2       S887
+      C445 B 
+      C444 B 
+NetDegree : 4       S853
+      C453 B 
+      C452 B 
+      C446 B 
+      C444 B 
+NetDegree : 2       S888
+      C450 B 
+      C447 B 
+NetDegree : 2       S889
+      C448 B 
+      C447 B 
+NetDegree : 2       S891
+      C449 B 
+      C448 B 
+NetDegree : 4       S855
+      C454 B 
+      C452 B 
+      C450 B 
+      C448 B 
+NetDegree : 4       S856
+      C458 B 
+      C457 B 
+      C452 B 
+      C451 B 
+NetDegree : 8       S203
+      C710 B 
+      C709 B 
+      C672 B 
+      C664 B 
+      C462 B 
+      C461 B 
+      C454 B 
+      C453 B 
+NetDegree : 2       S857
+      C454 B 
+      C453 B 
+NetDegree : 2       S858
+      C459 B 
+      C457 B 
+NetDegree : 3       S201
+      C750 B 
+      C522 B 
+      C460 B 
+NetDegree : 2       S859
+      C463 B 
+      C462 B 
+NetDegree : 2       S860
+      C464 B 
+      C463 B 
+NetDegree : 3       S209
+      C572 B 
+      C536 B 
+      C464 B 
+NetDegree : 2       S862
+      C468 B 
+      C466 B 
+NetDegree : 2       S863
+      C467 B 
+      C466 B 
+NetDegree : 2       S865
+      C468 B 
+      C467 B 
+NetDegree : 3       S211
+      C600 B 
+      C470 B 
+      C469 B 
+NetDegree : 2       S892
+      C489 B 
+      C469 B 
+NetDegree : 2       S893
+      C489 B 
+      C469 B 
+NetDegree : 3       S894
+      C501 B 
+      C480 B 
+      C470 B 
+NetDegree : 2       S895
+      C489 B 
+      C470 B 
+NetDegree : 4       S896
+      C501 B 
+      C486 B 
+      C481 B 
+      C470 B 
+NetDegree : 2       S897
+      C471 B 
+      C470 B 
+NetDegree : 6       S898
+      C505 B 
+      C493 B 
+      C487 B 
+      C481 B 
+      C478 B 
+      C471 B 
+NetDegree : 2       S899
+      C472 B 
+      C471 B 
+NetDegree : 2       S900
+      C496 B 
+      C472 B 
+NetDegree : 4       S901
+      C485 B 
+      C477 B 
+      C473 B 
+      C472 B 
+NetDegree : 2       S902
+      C474 B 
+      C472 B 
+NetDegree : 2       S903
+      C475 B 
+      C473 B 
+NetDegree : 4       S904
+      C496 B 
+      C480 B 
+      C477 B 
+      C473 B 
+NetDegree : 2       S905
+      C474 B 
+      C473 B 
+NetDegree : 3       S906
+      C491 B 
+      C476 B 
+      C474 B 
+NetDegree : 2       S907
+      C490 B 
+      C475 B 
+NetDegree : 3       S908
+      C495 B 
+      C478 B 
+      C475 B 
+NetDegree : 2       S909
+      C485 B 
+      C476 B 
+NetDegree : 2       S910
+      C492 B 
+      C476 B 
+NetDegree : 4       S911
+      C503 B 
+      C495 B 
+      C494 B 
+      C477 B 
+NetDegree : 4       S912
+      C506 B 
+      C486 B 
+      C479 B 
+      C478 B 
+NetDegree : 3       S913
+      C496 B 
+      C495 B 
+      C478 B 
+NetDegree : 2       S914
+      C494 B 
+      C478 B 
+NetDegree : 3       S915
+      C497 B 
+      C489 B 
+      C479 B 
+NetDegree : 9       S916
+      C501 B 
+      C500 B 
+      C499 B 
+      C498 B 
+      C497 B 
+      C496 B 
+      C489 B 
+      C484 B 
+      C480 B 
+NetDegree : 3       S917
+      C488 B 
+      C486 B 
+      C481 B 
+NetDegree : 2       S918
+      C502 B 
+      C481 B 
+NetDegree : 3       S919
+      C504 B 
+      C493 B 
+      C482 B 
+NetDegree : 3       S920
+      C503 B 
+      C490 B 
+      C482 B 
+NetDegree : 2       S921
+      C502 B 
+      C482 B 
+NetDegree : 5       S922
+      C504 B 
+      C492 B 
+      C491 B 
+      C487 B 
+      C483 B 
+NetDegree : 2       S923
+      C502 B 
+      C483 B 
+NetDegree : 4       S924
+      C492 B 
+      C491 B 
+      C488 B 
+      C483 B 
+NetDegree : 2       S925
+      C484 B 
+      C483 B 
+NetDegree : 3       S926
+      C503 B 
+      C490 B 
+      C486 B 
+NetDegree : 2       S927
+      C502 B 
+      C487 B 
+NetDegree : 2       S928
+      C503 B 
+      C487 B 
+NetDegree : 5       S212
+      C527 B 
+      C523 B 
+      C515 B 
+      C510 B 
+      C491 B 
+NetDegree : 3       S213
+      C528 B 
+      C524 B 
+      C492 B 
+NetDegree : 2       S932
+      C505 B 
+      C493 B 
+NetDegree : 2       S933
+      C506 B 
+      C493 B 
+NetDegree : 2       S934
+      C495 B 
+      C494 B 
+NetDegree : 2       S936
+      C498 B 
+      C497 B 
+NetDegree : 2       S938
+      C499 B 
+      C498 B 
+NetDegree : 2       S940
+      C500 B 
+      C499 B 
+NetDegree : 2       S942
+      C501 B 
+      C500 B 
+NetDegree : 2       S214
+      C784 B 
+      C507 B 
+NetDegree : 2       S215
+      C783 B 
+      C507 B 
+NetDegree : 2       S944
+      C509 B 
+      C507 B 
+NetDegree : 6       S228
+      C526 B 
+      C525 B 
+      C524 B 
+      C523 B 
+      C522 B 
+      C508 B 
+NetDegree : 4       S216
+      C716 B 
+      C666 B 
+      C521 B 
+      C508 B 
+NetDegree : 2       S946
+      C509 B 
+      C508 B 
+NetDegree : 2       S947
+      C511 B 
+      C509 B 
+NetDegree : 2       S948
+      C518 B 
+      C510 B 
+NetDegree : 2       S949
+      C511 B 
+      C510 B 
+NetDegree : 2       S217
+      C782 B 
+      C512 B 
+NetDegree : 2       S218
+      C781 B 
+      C512 B 
+NetDegree : 2       S950
+      C514 B 
+      C512 B 
+NetDegree : 6       S952
+      C530 B 
+      C529 B 
+      C528 B 
+      C527 B 
+      C522 B 
+      C513 B 
+NetDegree : 4       S219
+      C717 B 
+      C665 B 
+      C531 B 
+      C513 B 
+NetDegree : 2       S953
+      C514 B 
+      C513 B 
+NetDegree : 2       S954
+      C516 B 
+      C514 B 
+NetDegree : 3       S955
+      C518 B 
+      C517 B 
+      C515 B 
+NetDegree : 2       S956
+      C516 B 
+      C515 B 
+NetDegree : 3       S221
+      C779 B 
+      C702 B 
+      C517 B 
+NetDegree : 2       S220
+      C780 B 
+      C517 B 
+NetDegree : 2       S222
+      C683 B 
+      C517 B 
+NetDegree : 6       S224
+      C779 B 
+      C750 B 
+      C531 B 
+      C521 B 
+      C519 B 
+      C517 B 
+NetDegree : 2       S223
+      C697 B 
+      C519 B 
+NetDegree : 3       S225
+      C697 B 
+      C531 B 
+      C521 B 
+NetDegree : 3       S957
+      C524 B 
+      C523 B 
+      C521 B 
+NetDegree : 2       S958
+      C525 B 
+      C523 B 
+NetDegree : 2       S959
+      C526 B 
+      C524 B 
+NetDegree : 2       S226
+      C778 B 
+      C525 B 
+NetDegree : 2       S227
+      C777 B 
+      C526 B 
+NetDegree : 3       S960
+      C531 B 
+      C528 B 
+      C527 B 
+NetDegree : 2       S961
+      C529 B 
+      C527 B 
+NetDegree : 2       S962
+      C530 B 
+      C528 B 
+NetDegree : 2       S229
+      C775 B 
+      C529 B 
+NetDegree : 2       S230
+      C774 B 
+      C530 B 
+NetDegree : 3       S246
+      C751 B 
+      C678 B 
+      C532 B 
+NetDegree : 17      S1079
+      C565 B 
+      C558 B 
+      C557 B 
+      C556 B 
+      C555 B 
+      C554 B 
+      C542 B 
+      C541 B 
+      C540 B 
+      C539 B 
+      C538 B 
+      C537 B 
+      C536 B 
+      C535 B 
+      C534 B 
+      C533 B 
+      C532 B 
+NetDegree : 2       S970
+      C692 B 
+      C532 B 
+NetDegree : 12      S1080
+      C566 B 
+      C542 B 
+      C541 B 
+      C540 B 
+      C539 B 
+      C538 B 
+      C537 B 
+      C536 B 
+      C535 B 
+      C534 B 
+      C533 B 
+      C532 B 
+NetDegree : 3       S973
+      C658 B 
+      C638 B 
+      C532 B 
+NetDegree : 12      S1081
+      C568 B 
+      C542 B 
+      C541 B 
+      C540 B 
+      C539 B 
+      C538 B 
+      C537 B 
+      C536 B 
+      C535 B 
+      C534 B 
+      C533 B 
+      C532 B 
+NetDegree : 2      S1090
+      C543 B 
+      C532 B 
+NetDegree : 3       S245
+      C752 B 
+      C679 B 
+      C533 B 
+NetDegree : 3       S974
+      C659 B 
+      C637 B 
+      C533 B 
+NetDegree : 2      S1091
+      C544 B 
+      C533 B 
+NetDegree : 3       S244
+      C753 B 
+      C680 B 
+      C534 B 
+NetDegree : 2       S969
+      C694 B 
+      C534 B 
+NetDegree : 3       S975
+      C660 B 
+      C636 B 
+      C534 B 
+NetDegree : 2      S1092
+      C545 B 
+      C534 B 
+NetDegree : 3       S243
+      C754 B 
+      C681 B 
+      C535 B 
+NetDegree : 3       S976
+      C661 B 
+      C635 B 
+      C535 B 
+NetDegree : 2      S1093
+      C546 B 
+      C535 B 
+NetDegree : 3       S242
+      C755 B 
+      C682 B 
+      C536 B 
+NetDegree : 3       S977
+      C662 B 
+      C634 B 
+      C536 B 
+NetDegree : 2      S1094
+      C547 B 
+      C536 B 
+NetDegree : 3       S241
+      C756 B 
+      C683 B 
+      C537 B 
+NetDegree : 3       S978
+      C663 B 
+      C633 B 
+      C537 B 
+NetDegree : 2      S1095
+      C548 B 
+      C537 B 
+NetDegree : 3       S240
+      C757 B 
+      C684 B 
+      C538 B 
+NetDegree : 3       S979
+      C664 B 
+      C632 B 
+      C538 B 
+NetDegree : 2      S1096
+      C549 B 
+      C538 B 
+NetDegree : 3       S239
+      C758 B 
+      C685 B 
+      C539 B 
+NetDegree : 3       S980
+      C665 B 
+      C631 B 
+      C539 B 
+NetDegree : 2      S1097
+      C550 B 
+      C539 B 
+NetDegree : 2       S238
+      C759 B 
+      C540 B 
+NetDegree : 2       S968
+      C695 B 
+      C540 B 
+NetDegree : 3       S981
+      C666 B 
+      C630 B 
+      C540 B 
+NetDegree : 2      S1098
+      C551 B 
+      C540 B 
+NetDegree : 2       S237
+      C760 B 
+      C541 B 
+NetDegree : 3       S982
+      C667 B 
+      C629 B 
+      C541 B 
+NetDegree : 2      S1099
+      C552 B 
+      C541 B 
+NetDegree : 2       S236
+      C761 B 
+      C542 B 
+NetDegree : 3       S983
+      C668 B 
+      C628 B 
+      C542 B 
+NetDegree : 2      S1100
+      C553 B 
+      C542 B 
+NetDegree : 17      S1082
+      C571 B 
+      C563 B 
+      C562 B 
+      C561 B 
+      C560 B 
+      C559 B 
+      C553 B 
+      C552 B 
+      C551 B 
+      C550 B 
+      C549 B 
+      C548 B 
+      C547 B 
+      C546 B 
+      C545 B 
+      C544 B 
+      C543 B 
+NetDegree : 12      S1083
+      C570 B 
+      C553 B 
+      C552 B 
+      C551 B 
+      C550 B 
+      C549 B 
+      C548 B 
+      C547 B 
+      C546 B 
+      C545 B 
+      C544 B 
+      C543 B 
+NetDegree : 2       S985
+      C577 B 
+      C543 B 
+NetDegree : 2       S987
+      C578 B 
+      C544 B 
+NetDegree : 2       S989
+      C579 B 
+      C545 B 
+NetDegree : 2       S991
+      C580 B 
+      C546 B 
+NetDegree : 2       S993
+      C585 B 
+      C547 B 
+NetDegree : 2       S995
+      C586 B 
+      C548 B 
+NetDegree : 2       S997
+      C587 B 
+      C549 B 
+NetDegree : 2       S999
+      C588 B 
+      C550 B 
+NetDegree : 2      S1001
+      C593 B 
+      C551 B 
+NetDegree : 2      S1003
+      C594 B 
+      C552 B 
+NetDegree : 2      S1005
+      C595 B 
+      C553 B 
+NetDegree : 2       S235
+      C762 B 
+      C554 B 
+NetDegree : 2       S967
+      C686 B 
+      C554 B 
+NetDegree : 6      S1084
+      C565 B 
+      C558 B 
+      C557 B 
+      C556 B 
+      C555 B 
+      C554 B 
+NetDegree : 2      S1101
+      C559 B 
+      C554 B 
+NetDegree : 2       S234
+      C763 B 
+      C555 B 
+NetDegree : 2       S966
+      C687 B 
+      C555 B 
+NetDegree : 2      S1102
+      C560 B 
+      C555 B 
+NetDegree : 2       S233
+      C764 B 
+      C556 B 
+NetDegree : 2       S965
+      C688 B 
+      C556 B 
+NetDegree : 2      S1103
+      C561 B 
+      C556 B 
+NetDegree : 2       S232
+      C765 B 
+      C557 B 
+NetDegree : 2       S964
+      C689 B 
+      C557 B 
+NetDegree : 2      S1104
+      C562 B 
+      C557 B 
+NetDegree : 2       S231
+      C766 B 
+      C558 B 
+NetDegree : 2       S963
+      C696 B 
+      C558 B 
+NetDegree : 2      S1105
+      C563 B 
+      C558 B 
+NetDegree : 6      S1085
+      C569 B 
+      C563 B 
+      C562 B 
+      C561 B 
+      C560 B 
+      C559 B 
+NetDegree : 2      S1007
+      C596 B 
+      C559 B 
+NetDegree : 2      S1009
+      C601 B 
+      C560 B 
+NetDegree : 2      S1011
+      C602 B 
+      C561 B 
+NetDegree : 2      S1013
+      C603 B 
+      C562 B 
+NetDegree : 2      S1015
+      C604 B 
+      C563 B 
+NetDegree : 2      S1086
+      C565 B 
+      C564 B 
+NetDegree : 2      S1087
+      C568 B 
+      C567 B 
+NetDegree : 2      S1088
+      C570 B 
+      C569 B 
+NetDegree : 2      S1089
+      C572 B 
+      C569 B 
+NetDegree : 17      S1106
+      C605 B 
+      C600 B 
+      C599 B 
+      C598 B 
+      C597 B 
+      C592 B 
+      C591 B 
+      C590 B 
+      C589 B 
+      C584 B 
+      C583 B 
+      C582 B 
+      C581 B 
+      C576 B 
+      C575 B 
+      C574 B 
+      C573 B 
+NetDegree : 2      S1112
+      C577 B 
+      C573 B 
+NetDegree : 17      S1109
+      C609 B 
+      C600 B 
+      C599 B 
+      C598 B 
+      C597 B 
+      C592 B 
+      C591 B 
+      C590 B 
+      C589 B 
+      C584 B 
+      C583 B 
+      C582 B 
+      C581 B 
+      C576 B 
+      C575 B 
+      C574 B 
+      C573 B 
+NetDegree : 3      S1017
+      C610 B 
+      C578 B 
+      C573 B 
+NetDegree : 2      S1113
+      C578 B 
+      C574 B 
+NetDegree : 3      S1019
+      C611 B 
+      C579 B 
+      C574 B 
+NetDegree : 2      S1114
+      C579 B 
+      C575 B 
+NetDegree : 3      S1021
+      C612 B 
+      C580 B 
+      C575 B 
+NetDegree : 2      S1115
+      C580 B 
+      C576 B 
+NetDegree : 3      S1023
+      C613 B 
+      C585 B 
+      C576 B 
+NetDegree : 17      S1108
+      C607 B 
+      C604 B 
+      C603 B 
+      C602 B 
+      C601 B 
+      C596 B 
+      C595 B 
+      C594 B 
+      C593 B 
+      C588 B 
+      C587 B 
+      C586 B 
+      C585 B 
+      C580 B 
+      C579 B 
+      C578 B 
+      C577 B 
+NetDegree : 18      S1107
+      C607 B 
+      C606 B 
+      C604 B 
+      C603 B 
+      C602 B 
+      C601 B 
+      C596 B 
+      C595 B 
+      C594 B 
+      C593 B 
+      C588 B 
+      C587 B 
+      C586 B 
+      C585 B 
+      C580 B 
+      C579 B 
+      C578 B 
+      C577 B 
+NetDegree : 2      S1116
+      C585 B 
+      C581 B 
+NetDegree : 3      S1025
+      C614 B 
+      C586 B 
+      C581 B 
+NetDegree : 2      S1117
+      C586 B 
+      C582 B 
+NetDegree : 3      S1027
+      C615 B 
+      C587 B 
+      C582 B 
+NetDegree : 2      S1118
+      C587 B 
+      C583 B 
+NetDegree : 3      S1029
+      C616 B 
+      C588 B 
+      C583 B 
+NetDegree : 2      S1119
+      C588 B 
+      C584 B 
+NetDegree : 3      S1031
+      C617 B 
+      C593 B 
+      C584 B 
+NetDegree : 2      S1120
+      C593 B 
+      C589 B 
+NetDegree : 3      S1033
+      C618 B 
+      C594 B 
+      C589 B 
+NetDegree : 2      S1121
+      C594 B 
+      C590 B 
+NetDegree : 3      S1035
+      C619 B 
+      C595 B 
+      C590 B 
+NetDegree : 2      S1122
+      C595 B 
+      C591 B 
+NetDegree : 3      S1037
+      C620 B 
+      C596 B 
+      C591 B 
+NetDegree : 2      S1123
+      C596 B 
+      C592 B 
+NetDegree : 3      S1039
+      C621 B 
+      C601 B 
+      C592 B 
+NetDegree : 2      S1124
+      C601 B 
+      C597 B 
+NetDegree : 3      S1041
+      C622 B 
+      C602 B 
+      C597 B 
+NetDegree : 2      S1125
+      C602 B 
+      C598 B 
+NetDegree : 3      S1043
+      C623 B 
+      C603 B 
+      C598 B 
+NetDegree : 2      S1126
+      C603 B 
+      C599 B 
+NetDegree : 3      S1045
+      C624 B 
+      C604 B 
+      C599 B 
+NetDegree : 2      S1127
+      C604 B 
+      C600 B 
+NetDegree : 2      S1046
+      C625 B 
+      C600 B 
+NetDegree : 2      S1111
+      C609 B 
+      C608 B 
+NetDegree : 17      S1128
+      C626 B 
+      C625 B 
+      C624 B 
+      C623 B 
+      C622 B 
+      C621 B 
+      C620 B 
+      C619 B 
+      C618 B 
+      C617 B 
+      C616 B 
+      C615 B 
+      C614 B 
+      C613 B 
+      C612 B 
+      C611 B 
+      C610 B 
+NetDegree : 17      S1129
+      C627 B 
+      C625 B 
+      C624 B 
+      C623 B 
+      C622 B 
+      C621 B 
+      C620 B 
+      C619 B 
+      C618 B 
+      C617 B 
+      C616 B 
+      C615 B 
+      C614 B 
+      C613 B 
+      C612 B 
+      C611 B 
+      C610 B 
+NetDegree : 2      S1047
+      C658 B 
+      C610 B 
+NetDegree : 2      S1049
+      C659 B 
+      C611 B 
+NetDegree : 2      S1051
+      C660 B 
+      C612 B 
+NetDegree : 2      S1053
+      C661 B 
+      C613 B 
+NetDegree : 2      S1055
+      C662 B 
+      C614 B 
+NetDegree : 2      S1057
+      C663 B 
+      C615 B 
+NetDegree : 2      S1059
+      C664 B 
+      C616 B 
+NetDegree : 2      S1061
+      C665 B 
+      C617 B 
+NetDegree : 2      S1063
+      C666 B 
+      C618 B 
+NetDegree : 2      S1065
+      C667 B 
+      C619 B 
+NetDegree : 2      S1067
+      C668 B 
+      C620 B 
+NetDegree : 2      S1069
+      C669 B 
+      C621 B 
+NetDegree : 2      S1071
+      C670 B 
+      C622 B 
+NetDegree : 2      S1073
+      C671 B 
+      C623 B 
+NetDegree : 2      S1075
+      C672 B 
+      C624 B 
+NetDegree : 2      S1077
+      C673 B 
+      C625 B 
+NetDegree : 12      S1132
+      C640 B 
+      C638 B 
+      C637 B 
+      C636 B 
+      C635 B 
+      C634 B 
+      C633 B 
+      C632 B 
+      C631 B 
+      C630 B 
+      C629 B 
+      C628 B 
+NetDegree : 12      S1133
+      C639 B 
+      C638 B 
+      C637 B 
+      C636 B 
+      C635 B 
+      C634 B 
+      C633 B 
+      C632 B 
+      C631 B 
+      C630 B 
+      C629 B 
+      C628 B 
+NetDegree : 17      S1145
+      C673 B 
+      C672 B 
+      C671 B 
+      C670 B 
+      C669 B 
+      C668 B 
+      C667 B 
+      C666 B 
+      C665 B 
+      C664 B 
+      C663 B 
+      C662 B 
+      C661 B 
+      C660 B 
+      C659 B 
+      C658 B 
+      C641 B 
+NetDegree : 2      S1146
+      C658 B 
+      C642 B 
+NetDegree : 2       S255
+      C751 B 
+      C642 B 
+NetDegree : 2      S1147
+      C659 B 
+      C643 B 
+NetDegree : 2       S256
+      C752 B 
+      C643 B 
+NetDegree : 2      S1148
+      C660 B 
+      C644 B 
+NetDegree : 2       S257
+      C753 B 
+      C644 B 
+NetDegree : 2      S1149
+      C661 B 
+      C645 B 
+NetDegree : 2       S258
+      C754 B 
+      C645 B 
+NetDegree : 2      S1150
+      C662 B 
+      C646 B 
+NetDegree : 2       S259
+      C755 B 
+      C646 B 
+NetDegree : 2      S1151
+      C663 B 
+      C647 B 
+NetDegree : 2       S260
+      C756 B 
+      C647 B 
+NetDegree : 2      S1152
+      C664 B 
+      C648 B 
+NetDegree : 2       S261
+      C757 B 
+      C648 B 
+NetDegree : 2      S1153
+      C665 B 
+      C649 B 
+NetDegree : 2       S262
+      C758 B 
+      C649 B 
+NetDegree : 2      S1154
+      C666 B 
+      C650 B 
+NetDegree : 2       S263
+      C759 B 
+      C650 B 
+NetDegree : 2      S1155
+      C667 B 
+      C651 B 
+NetDegree : 2       S264
+      C760 B 
+      C651 B 
+NetDegree : 2      S1156
+      C668 B 
+      C652 B 
+NetDegree : 2       S265
+      C761 B 
+      C652 B 
+NetDegree : 2      S1157
+      C669 B 
+      C653 B 
+NetDegree : 2       S266
+      C762 B 
+      C653 B 
+NetDegree : 2      S1158
+      C670 B 
+      C654 B 
+NetDegree : 2       S267
+      C763 B 
+      C654 B 
+NetDegree : 2      S1159
+      C671 B 
+      C655 B 
+NetDegree : 2       S268
+      C764 B 
+      C655 B 
+NetDegree : 2      S1160
+      C672 B 
+      C656 B 
+NetDegree : 2       S269
+      C765 B 
+      C656 B 
+NetDegree : 2      S1161
+      C673 B 
+      C657 B 
+NetDegree : 2       S270
+      C766 B 
+      C657 B 
+NetDegree : 17       S271
+      C676 B 
+      C673 B 
+      C672 B 
+      C671 B 
+      C670 B 
+      C669 B 
+      C668 B 
+      C667 B 
+      C666 B 
+      C665 B 
+      C664 B 
+      C663 B 
+      C662 B 
+      C661 B 
+      C660 B 
+      C659 B 
+      C658 B 
+NetDegree : 4       S971
+      C693 B 
+      C681 B 
+      C669 B 
+      C668 B 
+NetDegree : 4       S972
+      C717 B 
+      C716 B 
+      C701 B 
+      C670 B 
+NetDegree : 2      S1162
+      C676 B 
+      C674 B 
+NetDegree : 2       S254
+      C807 B 
+      C675 B 
+NetDegree : 2      S1163
+      C677 B 
+      C675 B 
+NetDegree : 11      S1164
+      C718 B 
+      C713 B 
+      C698 B 
+      C685 B 
+      C684 B 
+      C683 B 
+      C682 B 
+      C681 B 
+      C680 B 
+      C679 B 
+      C678 B 
+NetDegree : 13      S1165
+      C715 B 
+      C714 B 
+      C700 B 
+      C699 B 
+      C697 B 
+      C685 B 
+      C684 B 
+      C683 B 
+      C682 B 
+      C681 B 
+      C680 B 
+      C679 B 
+      C678 B 
+NetDegree : 2      S1167
+      C716 B 
+      C678 B 
+NetDegree : 2      S1169
+      C717 B 
+      C679 B 
+NetDegree : 2      S1170
+      C692 B 
+      C680 B 
+NetDegree : 2      S1173
+      C694 B 
+      C682 B 
+NetDegree : 2      S1176
+      C697 B 
+      C684 B 
+NetDegree : 2      S1178
+      C695 B 
+      C685 B 
+NetDegree : 6      S1180
+      C713 B 
+      C696 B 
+      C689 B 
+      C688 B 
+      C687 B 
+      C686 B 
+NetDegree : 2       S247
+      C767 B 
+      C686 B 
+NetDegree : 7      S1181
+      C718 B 
+      C700 B 
+      C696 B 
+      C689 B 
+      C688 B 
+      C687 B 
+      C686 B 
+NetDegree : 2       S248
+      C768 B 
+      C687 B 
+NetDegree : 2       S249
+      C769 B 
+      C688 B 
+NetDegree : 2       S250
+      C770 B 
+      C689 B 
+NetDegree : 2      S1182
+      C709 B 
+      C690 B 
+NetDegree : 2      S1183
+      C714 B 
+      C690 B 
+NetDegree : 2      S1185
+      C716 B 
+      C690 B 
+NetDegree : 2      S1186
+      C711 B 
+      C691 B 
+NetDegree : 2      S1187
+      C715 B 
+      C691 B 
+NetDegree : 2      S1189
+      C717 B 
+      C691 B 
+NetDegree : 2       S251
+      C771 B 
+      C696 B 
+NetDegree : 2       S253
+      C780 B 
+      C702 B 
+NetDegree : 2      S1194
+      C708 B 
+      C702 B 
+NetDegree : 2      S1200
+      C705 B 
+      C703 B 
+NetDegree : 2      S1201
+      C705 B 
+      C704 B 
+NetDegree : 2      S1202
+      C707 B 
+      C705 B 
+NetDegree : 3       S252
+      C772 B 
+      C713 B 
+      C706 B 
+NetDegree : 2      S1203
+      C707 B 
+      C706 B 
+NetDegree : 2      S1196
+      C708 B 
+      C707 B 
+NetDegree : 2      S1195
+      C718 B 
+      C708 B 
+NetDegree : 2      S1197
+      C714 B 
+      C710 B 
+NetDegree : 2      S1198
+      C715 B 
+      C712 B 
+NetDegree : 12      S1204
+      C730 B 
+      C729 B 
+      C728 B 
+      C727 B 
+      C726 B 
+      C725 B 
+      C724 B 
+      C723 B 
+      C722 B 
+      C721 B 
+      C720 B 
+      C719 B 
+NetDegree : 12      S1205
+      C730 B 
+      C729 B 
+      C728 B 
+      C727 B 
+      C726 B 
+      C725 B 
+      C724 B 
+      C723 B 
+      C722 B 
+      C721 B 
+      C720 B 
+      C719 B 
+NetDegree : 2       S282
+      C796 B 
+      C719 B 
+NetDegree : 2       S272
+      C808 B 
+      C720 B 
+NetDegree : 2       S283
+      C797 B 
+      C720 B 
+NetDegree : 2       S273
+      C809 B 
+      C721 B 
+NetDegree : 2       S284
+      C798 B 
+      C721 B 
+NetDegree : 2       S274
+      C810 B 
+      C722 B 
+NetDegree : 2       S285
+      C799 B 
+      C722 B 
+NetDegree : 2       S275
+      C811 B 
+      C723 B 
+NetDegree : 2       S286
+      C800 B 
+      C723 B 
+NetDegree : 2       S276
+      C812 B 
+      C724 B 
+NetDegree : 2       S287
+      C801 B 
+      C724 B 
+NetDegree : 2       S277
+      C813 B 
+      C725 B 
+NetDegree : 2       S288
+      C802 B 
+      C725 B 
+NetDegree : 2       S278
+      C814 B 
+      C726 B 
+NetDegree : 2       S289
+      C803 B 
+      C726 B 
+NetDegree : 2       S279
+      C815 B 
+      C727 B 
+NetDegree : 2       S290
+      C804 B 
+      C727 B 
+NetDegree : 2       S280
+      C816 B 
+      C728 B 
+NetDegree : 2       S291
+      C805 B 
+      C728 B 
+NetDegree : 2       S281
+      C817 B 
+      C729 B 
+NetDegree : 2       S292
+      C806 B 
+      C729 B 
+NetDegree : 4      S1214
+      C744 B 
+      C743 B 
+      C741 B 
+      C731 B 
+NetDegree : 3      S1206
+      C749 B 
+      C742 B 
+      C731 B 
+NetDegree : 2      S1215
+      C732 B 
+      C731 B 
+NetDegree : 2      S1216
+      C745 B 
+      C731 B 
+NetDegree : 11      S1217
+      C742 B 
+      C741 B 
+      C740 B 
+      C739 B 
+      C738 B 
+      C737 B 
+      C736 B 
+      C735 B 
+      C734 B 
+      C733 B 
+      C732 B 
+NetDegree : 3      S1218
+      C745 B 
+      C743 B 
+      C732 B 
+NetDegree : 2      S1220
+      C743 B 
+      C733 B 
+NetDegree : 3      S1221
+      C745 B 
+      C734 B 
+      C733 B 
+NetDegree : 3      S1223
+      C744 B 
+      C735 B 
+      C734 B 
+NetDegree : 2      S1225
+      C736 B 
+      C735 B 
+NetDegree : 2      S1226
+      C744 B 
+      C735 B 
+NetDegree : 3      S1227
+      C744 B 
+      C737 B 
+      C736 B 
+NetDegree : 3      S1229
+      C744 B 
+      C738 B 
+      C737 B 
+NetDegree : 3      S1231
+      C744 B 
+      C739 B 
+      C738 B 
+NetDegree : 2      S1233
+      C740 B 
+      C739 B 
+NetDegree : 2      S1234
+      C744 B 
+      C739 B 
+NetDegree : 2      S1235
+      C741 B 
+      C740 B 
+NetDegree : 2      S1236
+      C744 B 
+      C740 B 
+NetDegree : 2      S1238
+      C745 B 
+      C744 B 
+NetDegree : 2      S1207
+      C746 B 
+      C745 B 
+NetDegree : 3       S293
+      C823 B 
+      C749 B 
+      C746 B 
+NetDegree : 2      S1208
+      C748 B 
+      C746 B 
+NetDegree : 2      S1210
+      C748 B 
+      C747 B 
+NetDegree : 2      S1212
+      C749 B 
+      C747 B 
+NetDegree : 2      S1213
+      C750 B 
+      C748 B 
+NetDegree : 3       S306
+      C793 B 
+      C795 B 
+      C794 B 
+NetDegree : 6       S307
+      C796 B 
+      C797 B 
+      C798 B 
+      C799 B 
+      C800 B 
+      C794 B 
+NetDegree : 7       S308
+      C801 B 
+      C802 B 
+      C803 B 
+      C804 B 
+      C805 B 
+      C806 B 
+      C795 B 
